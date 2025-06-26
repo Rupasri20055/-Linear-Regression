@@ -5,6 +5,7 @@ About this Task:
 Hey! This task was about understanding how Linear Regression works using the Ames Housing dataset. I built a simple linear regression model to predict house sale prices based on the house's above-ground living area.
 
 What I did in this task:
+
 1️ Imported the Ames Housing dataset using Pandas.
 
 2️ Checked basic info like shape, data types, and missing values.
